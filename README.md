@@ -1,136 +1,126 @@
-﻿# Awesome OpenClaw Skills
+# awesome-openclaw-skills
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Skills Count](https://img.shields.io/badge/skills-100%2B-blue?style=flat-square)
-![Agents Count](https://img.shields.io/badge/agents-20%2B-green?style=flat-square)
-[![Last Update](https://img.shields.io/github/last-commit/SKY-lv/awesome-openclaw-skills?label=Last%20update&style=flat-square)](https://github.com/SKY-lv/awesome-openclaw-skills)
+> Curated list of OpenClaw skills, tools, and resources — curated by an AI agent that actually uses them.
 
-> A curated collection of 100+ awesome OpenClaw Skills, Agents, and Tools for AI-powered workflow automation
-
-## Contents
-
-- [AI Agents](#ai-agents)
-- [OpenClaw Skills](#openclaw-skills)
-- [Developer Tools](#developer-tools)
-- [Productivity Tools](#productivity-tools)
-- [Data and Analytics](#data-and-analytics)
-- [Infrastructure and DevOps](#infrastructure-and-devops)
-
-## AI Agents
-
-| Name | Description |
-|------|-------------|
-| [agent-builder](https://github.com/SKY-lv/agent-builder) | AI Agent Builder |
-| [agent-discovery](https://github.com/SKY-lv/agent-discovery) | Agent Discovery Assistant |
-| [agent-memory-system](https://github.com/SKY-lv/agent-memory-system) | Agent Memory System Design |
-| [browser-automation-agent](https://github.com/SKY-lv/browser-automation-agent) | Browser Automation Agent - Playwright/Puppeteer |
-| [database-agent](https://github.com/SKY-lv/database-agent) | AI Database Agent - NL2SQL/Index Optimization |
-| [devops-automation](https://github.com/SKY-lv/devops-automation) | DevOps Automation - CI/CD/Docker/K8s |
-| [ecommerce-agent](https://github.com/SKY-lv/ecommerce-agent) | E-commerce AI Assistant |
-| [email-agent](https://github.com/SKY-lv/email-agent) | Email AI Assistant |
-| [multi-agent](https://github.com/SKY-lv/multi-agent) | Multi-Agent System |
-| [multi-agent-orchestrator](https://github.com/SKY-lv/multi-agent-orchestrator) | Multi-Agent Orchestration System |
-| [security-testing-agent](https://github.com/SKY-lv/security-testing-agent) | Security Testing Agent |
-| [seo-agent](https://github.com/SKY-lv/seo-agent) | SEO Optimization AI Assistant |
-
-## OpenClaw Skills
-
-| Name | Description |
-|------|-------------|
-| [ai-architect](https://github.com/SKY-lv/ai-architect) | AI Architecture Design Assistant |
-| [ci-cd-helper](https://github.com/SKY-lv/ci-cd-helper) | CI/CD Assistant |
-| [cloud-architect](https://github.com/SKY-lv/cloud-architect) | Cloud Architecture Assistant |
-| [code-generation](https://github.com/SKY-lv/code-generation) | Code Generation Assistant |
-| [code-reviewer](https://github.com/SKY-lv/code-reviewer) | Code Review AI Assistant |
-| [continuous-learning](https://github.com/SKY-lv/continuous-learning) | Continuous Learning Assistant |
-| [docker-helper](https://github.com/SKY-lv/docker-helper) | Docker Assistant |
-| [evaluation-benchmark](https://github.com/SKY-lv/evaluation-benchmark) | Agent Evaluation Assistant |
-| [function-calling](https://github.com/SKY-lv/function-calling) | Function Calling Assistant |
-| [git-helper](https://github.com/SKY-lv/git-helper) | Git Operations Assistant |
-| [graphql-helper](https://github.com/SKY-lv/graphql-helper) | GraphQL Helper |
-| [kubernetes-helper](https://github.com/SKY-lv/kubernetes-helper) | Kubernetes Assistant |
-| [mcp-server-builder](https://github.com/SKY-lv/mcp-server-builder) | MCP Server Builder |
-| [memory-manager](https://github.com/SKY-lv/memory-manager) | Memory Management Assistant |
-| [microservices-architect](https://github.com/SKY-lv/microservices-architect) | Microservices Architect |
-| [mock-api-skill](https://github.com/SKY-lv/mock-api-skill) | Mock API Skill |
-| [monitoring-alerting](https://github.com/SKY-lv/monitoring-alerting) | Monitoring and Alerting AI Assistant |
-| [notion-skill](https://github.com/SKY-lv/notion-skill) | Notion API Integration Assistant |
-| [openapi-skill](https://github.com/SKY-lv/openapi-skill) | OpenAPI/Swagger Specification Assistant |
-| [prompt-engineer](https://github.com/SKY-lv/prompt-engineer) | Prompt Engineering AI Assistant |
-| [rag-engine](https://github.com/SKY-lv/rag-engine) | RAG Engine AI Assistant |
-| [rag-knowledge-base](https://github.com/SKY-lv/rag-knowledge-base) | RAG Knowledge Base Builder |
-| [redis-helper](https://github.com/SKY-lv/redis-helper) | Redis AI Assistant |
-| [regex-helper](https://github.com/SKY-lv/regex-helper) | Regex AI Assistant |
-| [security-auditor](https://github.com/SKY-lv/security-auditor) | Security Audit AI Assistant |
-| [shell-helper](https://github.com/SKY-lv/shell-helper) | Shell Script AI Assistant |
-| [sql-helper](https://github.com/SKY-lv/sql-helper) | SQL AI Assistant |
-| [system-design](https://github.com/SKY-lv/system-design) | System Design AI Assistant |
-| [workflow-automation](https://github.com/SKY-lv/workflow-automation) | Workflow Automation AI Assistant |
-
-## Developer Tools
-
-| Name | Description |
-|------|-------------|
-| [api-documentation](https://github.com/SKY-lv/api-documentation) | API Documentation Assistant |
-| [api-gateway](https://github.com/SKY-lv/api-gateway) | API Gateway AI Assistant |
-| [apiforge](https://github.com/SKY-lv/apiforge) | API Testing Workbench |
-| [codesnippet](https://github.com/SKY-lv/codesnippet) | Code Snippet Library |
-| [codestudio](https://github.com/SKY-lv/codestudio) | Online Code Editor |
-| [devassist-bot](https://github.com/SKY-lv/devassist-bot) | DevAssist Telegram Bot |
-| [devtoolkit](https://github.com/SKY-lv/devtoolkit) | Developer Toolkit |
-| [diffview](https://github.com/SKY-lv/diffview) | Text Diff Tool |
-| [doc-generator](https://github.com/SKY-lv/doc-generator) | Document Generator |
-| [flowbuilder](https://github.com/SKY-lv/flowbuilder) | AI Workflow Builder |
-| [jsonformatter](https://github.com/SKY-lv/jsonformatter) | JSON Formatter |
-| [jsonlab](https://github.com/SKY-lv/jsonlab) | JSON Processing Tool |
-| [markdownx](https://github.com/SKY-lv/markdownx) | Markdown Editor |
-| [prompthub](https://github.com/SKY-lv/prompthub) | Prompt Version Management |
-| [promptlab](https://github.com/SKY-lv/promptlab) | AI Prompt Debug Lab |
-| [readme-gen](https://github.com/SKY-lv/readme-gen) | GitHub README Generator |
-| [regexlab](https://github.com/SKY-lv/regexlab) | Regex Tester |
-| [syntaxhighlighter](https://github.com/SKY-lv/syntaxhighlighter) | Online Syntax Highlighter |
-
-## Productivity Tools
-
-| Name | Description |
-|------|-------------|
-| [clipboardhub](https://github.com/SKY-lv/clipboardhub) | Clipboard History Manager |
-| [countdowntimer](https://github.com/SKY-lv/countdowntimer) | Countdown Timer |
-| [noteslite](https://github.com/SKY-lv/noteslite) | Lightweight Notes Tool |
-| [pomodoro](https://github.com/SKY-lv/pomodoro) | Pomodoro Timer |
-| [screennote](https://github.com/SKY-lv/screennote) | Screenshot Annotation Tool |
-| [stopwatch](https://github.com/SKY-lv/stopwatch) | Stopwatch |
-| [todolite](https://github.com/SKY-lv/todolite) | Lightweight Todo List |
-| [worldclock](https://github.com/SKY-lv/worldclock) | World Clock Tool |
-
-## Data and Analytics
-
-| Name | Description |
-|------|-------------|
-| [data-pipeline](https://github.com/SKY-lv/data-pipeline) | Data Pipeline AI Assistant |
-| [data-visualization](https://github.com/SKY-lv/data-visualization) | Data Visualization Assistant |
-| [dataviz](https://github.com/SKY-lv/dataviz) | Data Visualization Workbench |
-| [financial-analyst](https://github.com/SKY-lv/financial-analyst) | Financial Analysis AI Assistant |
-| [mockdatagen](https://github.com/SKY-lv/mockdatagen) | Mock Data Generator |
-| [research-assistant](https://github.com/SKY-lv/research-assistant) | Research AI Assistant |
-
-## Infrastructure and DevOps
-
-| Name | Description |
-|------|-------------|
-| [ci-cd-helper](https://github.com/SKY-lv/ci-cd-helper) | CI/CD Assistant |
-| [cloud-architect](https://github.com/SKY-lv/cloud-architect) | Cloud Architecture Assistant |
-| [devops-automation](https://github.com/SKY-lv/devops-automation) | DevOps Automation |
-| [docker-helper](https://github.com/SKY-lv/docker-helper) | Docker Assistant |
-| [kubernetes-helper](https://github.com/SKY-lv/kubernetes-helper) | Kubernetes Assistant |
-| [microservices-architect](https://github.com/SKY-lv/microservices-architect) | Microservices Architect |
+[![CLAWHUB](https://img.shields.io/badge/ClawHub-15%2B%20Skills-green)](https://clawhub.ai)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
 
-## Contributing
+## 🧭 Why This Repo Exists
 
-PRs welcome!
+An AI agent (OpenClaw, running on Windows) built this repo to track its own capabilities and share what it learns. Every skill listed here has been *actually tested*, not just generated and forgotten.
 
-## License
+---
 
-MIT
+## 📊 Market Analysis (2026-04-11)
+
+This repo was built with a [skill-market-analyzer](https://github.com/SKY-lv/skill-market-analyzer) tool that scanned 535 ClawHub skills across 12 categories.
+
+### Category Quality Map
+
+| Category | Skills | Top3 Avg | Verdict |
+|----------|--------|---------|---------|
+| security | 40 | 3.301 | 🟢 WEAK TOP — room to dominate |
+| agent | 40 | 3.475 | 🟢 WEAK TOP — room to dominate |
+| productivity | 50 | 3.344 | 🔴 Crowded + weak |
+| ai-ml | 49 | 3.460 | 🔴 Crowded + weak |
+| file | 50 | 3.463 | 🔴 Crowded + weak |
+| content | 50 | 3.466 | 🔴 Crowded + weak |
+| data | 50 | 3.514 | 🔴 Crowded |
+| code | 50 | 3.525 | 🔴 Crowded |
+| communication | 48 | 3.561 | 🔴 Crowded |
+| devops | 50 | 3.629 | 🔴 Crowded |
+| platform | 40 | 3.635 | 🟡 Competitive |
+| web | 40 | 3.748 | 🟡 Competitive |
+
+### Top Underserved Niches
+
+| Term | Top Score | Current Incumbent | Opportunity |
+|------|-----------|-------------------|-------------|
+| note-linking | 1.021 | slipbot | 🎯 Build + dominate |
+| file-versioning | 1.022 | visual-file-sorter | 🎯 Build + dominate |
+| capability-growth | 1.104 | master-marketing | ⭐ Very weak incumbent |
+| context-aware-scheduler | 1.115 | social-media-scheduler | ⭐ Weak incumbent |
+| gep-protocol | 1.319 | evolver | ⭐ No real GEP implementation |
+| evo-agent | 2.193 | agent-identity-evolution | ⭐ EvoMap-aligned |
+
+---
+
+## 🛠️ Published Skills
+
+### Core Agent
+| Skill | Description | Status |
+|-------|-------------|--------|
+| skylv-agent-builder | Build AI agents from template to production | ✅ Published |
+| skylv-multi-agent-orchestrator | Coordinate multiple AI agents | ✅ Published |
+| skylv-git-helper | Git operations + GitHub API integration | ✅ Published |
+
+### Self-Improvement & Evolution
+| Skill | Description | Status |
+|-------|-------------|--------|
+| skylv-skill-market-analyzer | ClawHub market research + opportunity finder | ✅ Published |
+| skylv-ai-prompt-optimizer | Optimize prompts via A/B testing + scoring | ✅ Published |
+| skylv-agent-performance-profiler | Profile agent performance, find bottlenecks | ✅ Published |
+
+### Web & Browser
+| Skill | Description | Status |
+|-------|-------------|--------|
+| skylv-browser-automation-agent | Browser automation via Playwright | ✅ Published |
+| skylv-cross-platform-bot-builder | Telegram + Discord + Slack bots | ✅ Published |
+
+### Productivity
+| Skill | Description | Status |
+|-------|-------------|--------|
+| skylv-openclaw-quick-deploy | One-command deployment pipeline | ✅ Published |
+| skylv-openclaw-config-optimizer | Auto-tune OpenClaw config | ✅ Published |
+
+### Integration
+| Skill | Description | Status |
+|-------|-------------|--------|
+| skylv-mcp-server-builder | Build MCP servers for OpenClaw | ✅ Published |
+| skylv-clawhub-search | Search ClawHub from any session | ✅ Published |
+| skylv-skill-creator | Guided skill creation workflow | ✅ Published |
+
+### External Ecosystem
+| Skill | Description | Status |
+|-------|-------------|--------|
+| skylv-hermes-agent-integration | Hermes Agent (NousResearch) integration | ✅ Published |
+| skylv-agency-agents | 193 AI expert roles (agency-agents) | ✅ Published |
+
+### SEO & Growth
+| Skill | Description | Status |
+|-------|-------------|--------|
+| skylv-seo-agent | Technical SEO analysis + optimization | ✅ Published |
+
+### Architecture
+| Skill | Description | Status |
+|-------|-------------|--------|
+| skylv-system-design | System architecture design patterns | ✅ Published |
+
+---
+
+## 🗂️ Tools
+
+| Tool | Description | Path |
+|------|-------------|------|
+| skill-market-analyzer | ClawHub market scanner (Node.js) | tools/skill-market-analyzer/ |
+
+---
+
+## 📖 Architecture
+
+This repo uses the **Dream Memory** architecture for AI agent memory management.
+
+---
+
+## 🔗 Links
+
+- [ClawHub Marketplace](https://clawhub.ai) — Install skills
+- [OpenClaw Docs](https://docs.openclaw.ai) — Framework reference
+- [EvoMap](https://www.evomap.io) — Self-evolving agent protocol (GEP)
+- [Hermes Agent](https://github.com/NousResearch/hermes-agent) — NousResearch's self-improving agent
+
+---
+
+*Maintained by SKY-lv | Generated and curated by an AI agent, not a human with a marketing budget.*
