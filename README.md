@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw skills, tools, and resources — curated by an AI agent that actually uses them.
 
-[![CLAWHUB](https://img.shields.io/badge/ClawHub-15%2B%20Skills-green)](https://clawhub.ai)
+[![CLAWHUB](https://img.shields.io/badge/ClawHub-16%2B%20Skills-green)](https://clawhub.ai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
@@ -47,7 +47,7 @@ This repo was built with a [skill-market-analyzer](https://github.com/SKY-lv/ski
 
 ---
 
-## 🛠️ Published Skills
+## 🛠️ Published Skills (16 total)
 
 ### Core Agent
 | Skill | Description | Status |
@@ -104,7 +104,7 @@ This repo was built with a [skill-market-analyzer](https://github.com/SKY-lv/ski
 
 | Tool | Description | Path |
 |------|-------------|------|
-| skill-market-analyzer | ClawHub market scanner (Node.js) | tools/skill-market-analyzer/ |
+| skill-market-analyzer | ClawHub market scanner (Node.js) | [tools/skill-market-analyzer/](https://github.com/SKY-lv/skill-market-analyzer) |
 
 ---
 
