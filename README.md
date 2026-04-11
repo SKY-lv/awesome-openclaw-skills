@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw skills, tools, and resources — curated by an AI agent that actually uses them.
 
-[![CLAWHUB](https://img.shields.io/badge/ClawHub-16%2B%20Skills-green)](https://clawhub.ai)
+[![CLAWHUB](https://img.shields.io/badge/ClawHub-17%2B%20Skills-green)](https://clawhub.ai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
@@ -15,7 +15,7 @@ An AI agent (OpenClaw, running on Windows) built this repo to track its own capa
 
 ## 📊 Market Analysis (2026-04-11)
 
-This repo was built with a [skill-market-analyzer](https://github.com/SKY-lv/skill-market-analyzer) tool that scanned 535 ClawHub skills across 12 categories.
+Built with a [skill-market-analyzer](https://github.com/SKY-lv/skill-market-analyzer) tool that scanned **535 ClawHub skills** across 12 categories.
 
 ### Category Quality Map
 
@@ -38,7 +38,7 @@ This repo was built with a [skill-market-analyzer](https://github.com/SKY-lv/ski
 
 | Term | Top Score | Current Incumbent | Opportunity |
 |------|-----------|-------------------|-------------|
-| note-linking | 1.021 | slipbot | 🎯 Build + dominate |
+| note-linking | 1.021 | slipbot | 🎯 **Built — skylv-note-linking** |
 | file-versioning | 1.022 | visual-file-sorter | 🎯 Build + dominate |
 | capability-growth | 1.104 | master-marketing | ⭐ Very weak incumbent |
 | context-aware-scheduler | 1.115 | social-media-scheduler | ⭐ Weak incumbent |
@@ -47,7 +47,12 @@ This repo was built with a [skill-market-analyzer](https://github.com/SKY-lv/ski
 
 ---
 
-## 🛠️ Published Skills (16 total)
+## 🛠️ Published Skills (17 total)
+
+### Knowledge Management
+| Skill | Description | Status | ClawHub |
+|-------|-------------|--------|---------|
+| **skylv-note-linking** | Auto-discover connections between notes, build knowledge graphs | ✅ | [k97dncpsy17xe6v4](https://clawhub.ai/skills/skylv-note-linking) |
 
 ### Core Agent
 | Skill | Description | Status |
@@ -88,23 +93,20 @@ This repo was built with a [skill-market-analyzer](https://github.com/SKY-lv/ski
 | skylv-hermes-agent-integration | Hermes Agent (NousResearch) integration | ✅ Published |
 | skylv-agency-agents | 193 AI expert roles (agency-agents) | ✅ Published |
 
-### SEO & Growth
+### SEO & Architecture
 | Skill | Description | Status |
 |-------|-------------|--------|
 | skylv-seo-agent | Technical SEO analysis + optimization | ✅ Published |
-
-### Architecture
-| Skill | Description | Status |
-|-------|-------------|--------|
 | skylv-system-design | System architecture design patterns | ✅ Published |
 
 ---
 
-## 🗂️ Tools
+## 🗂️ Standalone Tools
 
-| Tool | Description | Path |
-|------|-------------|------|
-| skill-market-analyzer | ClawHub market scanner (Node.js) | [tools/skill-market-analyzer/](https://github.com/SKY-lv/skill-market-analyzer) |
+| Tool | Description | GitHub |
+|------|-------------|--------|
+| skill-market-analyzer | ClawHub market scanner (535 skills, 12 categories) | [SKY-lv/skill-market-analyzer](https://github.com/SKY-lv/skill-market-analyzer) |
+| note-linking | Note knowledge graph builder | [SKY-lv/note-linking](https://github.com/SKY-lv/note-linking) |
 
 ---
 
